@@ -30,4 +30,5 @@ func main() {
 
 	g, h, i := 2, false, "hello!"
 	println(g, h, i)
+
 }
